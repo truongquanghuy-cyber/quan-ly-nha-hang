@@ -1,6 +1,6 @@
 // biến const khai báo không đc phép gắn lại giá trị
 let listFood = [];
-
+console.log("hello test");
 document.querySelector("#btnThemMon").onclick = function () {
     console.log("Them mon");
 
